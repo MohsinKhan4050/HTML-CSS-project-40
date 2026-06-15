@@ -49,6 +49,10 @@
     min-height: calc(100vh - 200px);
     display: grid;
     place-items: center;
+    width:100%;
+    max-width:800px;
+    margin: auto;
+    text-align: center;
 }
 
 
